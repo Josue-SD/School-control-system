@@ -1,0 +1,8 @@
+Usuario alumno: c
+Contraseña alumno: c
+
+Usuario profesor: p
+Contraseña profesor: p
+
+Usuario administrador: v
+Contraseña administrador: v
